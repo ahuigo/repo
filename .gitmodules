@@ -1,0 +1,75 @@
+[submodule "brew-ahui"]
+	path = brew-ahui
+	url = git@github.com:ahuigo/homebrew-ahui.git
+[submodule "a"]
+	path = a
+	url = https://github.com/ahuigo/a
+[submodule "chrome-ext-debug"]
+	path = chrome-ext-debug
+	url = git@github.com:ahuigo/chrome-ext-debug.git
+[submodule "go-book"]
+	path = go-book
+	url = https://github.com/qyuhen/book
+[submodule "go-gonic-example"]
+	path = go-gonic-example
+	url = https://github.com/gin-gonic/examples
+[submodule "js-webpack-demo"]
+	path = js-webpack-demo
+	url = git@github.com:ahuigo/webpack-demo.git
+[submodule "js-webpack-react-tutorial"]
+	path = js-webpack-react-tutorial
+	url = git@github.com:ahuigo/webpack-react-tutorial.git
+[submodule "js-webpack.js.org"]
+	path = js-webpack.js.org
+	url = https://github.com/webpack/webpack.js.org
+[submodule "learn-javascript"]
+	path = learn-javascript
+	url = https://github.com/ahuigo/learn-javascript
+[submodule "oss2bucket"]
+	path = oss2bucket
+	url = git@github.com:ahuigo/oss2bucket.git
+[submodule "php-websockets"]
+	path = php-websockets
+	url = https://github.com/ahuigo/PHP-Websockets
+[submodule "stock"]
+	path = stock
+	url = git@github.com:ahuigo/stock.git
+[submodule "xlparser"]
+	path = xlparser
+	url = https://github.com/ahuigo/xlparser
+[submodule "py-ahui-server"]
+	path = py-ahui-server
+	url = git@github.com:ahuigo/ahui-aiohttp-server.git
+[submodule "js-upload-chunk"]
+	path = js-upload-chunk
+	url = https://github.com/ahuigo/upload-chunk
+[submodule "php-websockets"]
+	path = php-websockets
+	url = https://github.com/ahuigo/php-websockets
+[submodule "fiddle"]
+	path = fiddle
+	url = https://github.com/ahuigo/local-jsfiddle.git
+[submodule "js-lib"]
+	path = js-lib
+	url = https://github.com/ahuigo/js-lib
+[submodule "c-lib"]
+	path = c-lib
+	url = https://github.com/ahuigo/c-lib
+[submodule "js-fiddle"]
+	path = js-fiddle
+	url = https://github.com/ahuigo/local-jsfiddle
+[submodule "go-lib"]
+	path = go-lib
+	url = https://github.com/ahuigo/go-lib
+[submodule "java-lib"]
+	path = java-lib
+	url = https://github.com/ahuigo/java-lib
+[submodule "php-lib"]
+	path = php-lib
+	url = https://github.com/ahuigo/php-lib
+[submodule "py-xcut"]
+	path = py-xcut
+	url = https://github.com/ahuigo/xcut
+[submodule "py-lib"]
+	path = py-lib
+	url = git@github.com:ahuigo/py-lib.git
