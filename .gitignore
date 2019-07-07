@@ -33,8 +33,11 @@ go.sum
 
 # demo ignore
 react-demos
-
 my-app
 my2-app
 redux
 node_modules/
+# ignore
+old-demo/
+www2/
+ahui.code-workspace
