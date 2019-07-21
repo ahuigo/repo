@@ -28,9 +28,6 @@
 [submodule "oss2bucket"]
 	path = oss2bucket
 	url = git@github.com:ahuigo/oss2bucket.git
-[submodule "php-websockets"]
-	path = php-websockets
-	url = https://github.com/ahuigo/PHP-Websockets
 [submodule "stock"]
 	path = stock
 	url = git@github.com:ahuigo/stock.git
@@ -43,9 +40,6 @@
 [submodule "js-upload-chunk"]
 	path = js-upload-chunk
 	url = https://github.com/ahuigo/upload-chunk
-[submodule "php-websockets"]
-	path = php-websockets
-	url = https://github.com/ahuigo/php-websockets
 [submodule "fiddle"]
 	path = fiddle
 	url = https://github.com/ahuigo/local-jsfiddle.git
@@ -76,3 +70,9 @@
 [submodule "js-prototypes"]
 	path = js-prototypes
 	url = https://github.com/ahuigo/prototypes
+[submodule "dockerfile"]
+	path = dockerfile
+	url = git@github.com:ahuigo/dockerfile.git
+[submodule "php-websockets"]
+	path = php-websockets
+	url = https://github.com/ahuigo/PHP-Websockets
