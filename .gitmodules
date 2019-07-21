@@ -19,9 +19,6 @@
 [submodule "js-webpack-react-tutorial"]
 	path = js-webpack-react-tutorial
 	url = git@github.com:ahuigo/webpack-react-tutorial.git
-[submodule "js-webpack.js.org"]
-	path = js-webpack.js.org
-	url = https://github.com/webpack/webpack.js.org
 [submodule "learn-javascript"]
 	path = learn-javascript
 	url = https://github.com/ahuigo/learn-javascript
