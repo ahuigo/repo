@@ -76,3 +76,6 @@
 [submodule "js-prototypes"]
 	path = js-prototypes
 	url = https://github.com/ahuigo/prototypes
+[submodule "dockerfile"]
+	path = dockerfile
+	url = git@github.com:ahuigo/dockerfile.git
