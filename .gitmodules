@@ -73,3 +73,6 @@
 [submodule "php-websockets"]
 	path = php-websockets
 	url = https://github.com/ahuigo/PHP-Websockets
+[submodule "js-worker"]
+	path = js-worker
+	url = https://github.com/ahuigo/js-worker
