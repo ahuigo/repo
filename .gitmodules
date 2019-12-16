@@ -76,3 +76,6 @@
 [submodule "js-worker"]
 	path = js-worker
 	url = https://github.com/ahuigo/js-worker
+[submodule "webpack-demo"]
+	path = webpack-demo
+	url = git@github.com:ahuigo/webpack-demo.git

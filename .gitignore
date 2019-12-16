@@ -2,6 +2,7 @@ b.code-workspace
 *.tmp
 *.log
 # other
+umi1/
 o/
 a.code-workspace
 .idea
