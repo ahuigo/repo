@@ -13,9 +13,6 @@
 [submodule "go-gonic-example"]
 	path = go-gonic-example
 	url = https://github.com/gin-gonic/examples
-[submodule "js-webpack-demo"]
-	path = js-webpack-demo
-	url = git@github.com:ahuigo/webpack-demo.git
 [submodule "js-webpack-react-tutorial"]
 	path = js-webpack-react-tutorial
 	url = git@github.com:ahuigo/webpack-react-tutorial.git
