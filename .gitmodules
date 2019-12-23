@@ -76,3 +76,6 @@
 [submodule "webpack-demo"]
 	path = webpack-demo
 	url = git@github.com:ahuigo/webpack-demo.git
+[submodule "umi-demo"]
+	path = umi-demo
+	url = git@github.com:ahuigo/umi-demo
