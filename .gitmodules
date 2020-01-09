@@ -24,7 +24,7 @@
 	url = git@github.com:ahuigo/oss2bucket.git
 [submodule "stock"]
 	path = stock
-	url = git@github.com:ahuigo/stock.git
+	url = https://github.com/ahuigo/stock
 [submodule "xlparser"]
 	path = xlparser
 	url = https://github.com/ahuigo/xlparser
@@ -78,4 +78,4 @@
 	url = git@github.com:ahuigo/webpack-demo.git
 [submodule "umi-demo"]
 	path = umi-demo
-	url = git@github.com:ahuigo/umi-demo
+	url = https://github.com/ahuigo/umi-demo
