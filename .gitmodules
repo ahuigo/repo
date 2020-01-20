@@ -23,7 +23,7 @@
 	path = oss2bucket
 	url = git@github.com:ahuigo/oss2bucket.git
 [submodule "stock"]
-	path = stock
+	path = st
 	url = https://github.com/ahuigo/stock
 [submodule "xlparser"]
 	path = xlparser
