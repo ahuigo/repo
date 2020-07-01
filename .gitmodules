@@ -79,3 +79,9 @@
 [submodule "umi-demo"]
 	path = umi-demo
 	url = https://github.com/ahuigo/umi-demo
+[submodule "chrome-stackoverflow"]
+	path = chrome-stackoverflow
+	url = https://github.com/ahuigo/chrome-stackoverflow.git
+[submodule "py-xlparser"]
+	path = py-xlparser
+	url = https://github.com/ahuigo/xlparser
